@@ -1,0 +1,20 @@
+Title: 3
+Initial Composition: SiO2 60
+Initial Composition: TiO2 1
+Initial Composition: Al2O3 12
+Initial Composition: FeO 9
+Initial Composition: MnO 1
+Initial Composition: MgO 6
+Initial Composition: CaO 8.5
+Initial Composition: Na2O 2.3
+Initial Composition: K2O 1.9
+Initial Composition: P2O5 0.14
+Initial Composition: H2O 2.5
+Initial Temperature: 1200
+Final Temperature: 900
+Initial Pressure: 2000
+Final Pressure: 2000
+Increment Temperature: 10
+Increment Pressure: 0
+dp/dt: 0
+log fo2 Path: NNO

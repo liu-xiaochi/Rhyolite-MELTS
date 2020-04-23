@@ -1,0 +1,1103 @@
+
+**********----------**********
+Title: 3
+
+T = 1200.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -7.56  delta HM = -4.85  NNO = 0.00  QFM = 0.59  COH = 2.72  IW = 4.18
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 104.53 (gm)  density = 2.44 (gm/cc)  viscosity = 2.29 (log 10 poise)     (analysis in wt %)
+ 		G = -1709251.35 (J)  H = -1269895.59 (J)  S = 298.24 (J/K)  V = 42.85 (cc)  Cp = 150.31 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.40   0.96  11.48   1.79   0.00   7.00   0.96   5.74   0.00   0.00   8.13   2.20   1.82   0.13   2.39   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Viscosity of the System: 2.29 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.44 (gm/cc)
+                 G = -1709251.35 (J)  H = -1269895.59 (J)  S = 298.24 (J/K)  V = 42.85 (cc)  Cp = 150.31 (J/K)  
+
+Oxygen           delta moles = -2.08167e-16  delta grams = -6.66109e-15
+                 G = 0.00 (J)  H = -0.00 (J)  S = -0.00 (J/K)  V = -0.00 (cc)  Cp = -0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1190.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -7.68  delta HM = -4.86  NNO = 0.00  QFM = 0.59  COH = 2.70  IW = 4.19
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 104.53 (gm)  density = 2.44 (gm/cc)  viscosity = 2.34 (log 10 poise)     (analysis in wt %)
+ 		G = -1706284.26 (J)  H = -1271407.32 (J)  S = 297.22 (J/K)  V = 42.80 (cc)  Cp = 150.29 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.40   0.96  11.48   1.80   0.00   6.99   0.96   5.74   0.00   0.00   8.13   2.20   1.82   0.13   2.39   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Viscosity of the System: 2.34 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.44 (gm/cc)
+                 G = -1706284.26 (J)  H = -1271407.32 (J)  S = 297.22 (J/K)  V = 42.80 (cc)  Cp = 150.29 (J/K)  
+
+Oxygen           delta moles = 1.86967e-05  delta grams = 0.000598271
+                 G = -6.30 (J)  H = 0.73 (J)  S = 0.00 (J/K)  V = 2.27 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1180.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -7.80  delta HM = -4.86  NNO = 0.00  QFM = 0.58  COH = 2.69  IW = 4.20
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 104.53 (gm)  density = 2.45 (gm/cc)  viscosity = 2.38 (log 10 poise)     (analysis in wt %)
+ 		G = -1703327.99 (J)  H = -1272919.36 (J)  S = 296.19 (J/K)  V = 42.75 (cc)  Cp = 150.27 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.40   0.96  11.48   1.81   0.00   6.98   0.96   5.74   0.00   0.00   8.13   2.20   1.82   0.13   2.39   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Viscosity of the System: 2.38 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.45 (gm/cc)
+                 G = -1703327.99 (J)  H = -1272919.36 (J)  S = 296.19 (J/K)  V = 42.75 (cc)  Cp = 150.27 (J/K)  
+
+Oxygen           delta moles = 3.84561e-05  delta grams = 0.00123055
+                 G = -12.86 (J)  H = 1.49 (J)  S = 0.01 (J/K)  V = 4.65 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1170.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -7.91  delta HM = -4.87  NNO = 0.00  QFM = 0.58  COH = 2.68  IW = 4.21
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 104.53 (gm)  density = 2.45 (gm/cc)  viscosity = 2.43 (log 10 poise)     (analysis in wt %)
+ 		G = -1700382.64 (J)  H = -1274431.73 (J)  S = 295.15 (J/K)  V = 42.70 (cc)  Cp = 150.24 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.40   0.96  11.48   1.81   0.00   6.98   0.96   5.74   0.00   0.00   8.13   2.20   1.82   0.13   2.39   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Viscosity of the System: 2.43 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.45 (gm/cc)
+                 G = -1700382.64 (J)  H = -1274431.73 (J)  S = 295.15 (J/K)  V = 42.70 (cc)  Cp = 150.24 (J/K)  
+
+Oxygen           delta moles = 5.93126e-05  delta grams = 0.00189793
+                 G = -19.68 (J)  H = 2.28 (J)  S = 0.02 (J/K)  V = 7.12 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1160.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.04  delta HM = -4.88  NNO = 0.00  QFM = 0.58  COH = 2.66  IW = 4.22
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 104.53 (gm)  density = 2.45 (gm/cc)  viscosity = 2.47 (log 10 poise)     (analysis in wt %)
+ 		G = -1697448.30 (J)  H = -1275944.44 (J)  S = 294.11 (J/K)  V = 42.65 (cc)  Cp = 150.22 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.40   0.96  11.48   1.82   0.00   6.97   0.96   5.74   0.00   0.00   8.13   2.20   1.82   0.13   2.39   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Viscosity of the System: 2.47 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.45 (gm/cc)
+                 G = -1697448.30 (J)  H = -1275944.44 (J)  S = 294.11 (J/K)  V = 42.65 (cc)  Cp = 150.22 (J/K)  
+
+Oxygen           delta moles = 8.13021e-05  delta grams = 0.00260157
+                 G = -26.77 (J)  H = 3.10 (J)  S = 0.02 (J/K)  V = 9.69 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1150.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.16  delta HM = -4.88  NNO = 0.00  QFM = 0.57  COH = 2.65  IW = 4.23
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 103.36 (gm)  density = 2.45 (gm/cc)  viscosity = 2.54 (log 10 poise)     (analysis in wt %)
+ 		G = -1675706.62 (J)  H = -1263048.41 (J)  S = 289.96 (J/K)  V = 42.18 (cc)  Cp = 148.32 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.42   0.97  11.60   1.82   0.00   6.93   0.97   5.47   0.00   0.00   8.20   2.23   1.84   0.14   2.42   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 1.17 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.34Mg1.55Fe'''0.02Ti0.00Al0.05Si1.97O6
+                 G = -18792.05 (J)  H = -14804.00 (J)  S = 2.80 (J/K)  V = 0.36 (cc)  Cp = 1.48 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -30.60         92.87         34.19          1.59         -1.34          3.20          0.09
+
+Total solids     mass = 1.17 (gm)  density = 3.24 (gm/cc)
+                 G = -18792.05 (J)  H = -14804.00 (J)  S = 2.80 (J/K)  V = 0.36 (cc)  Cp = 1.48 (J/K)  
+
+Viscosity of the System: 2.55 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.46 (gm/cc)
+                 G = -1694498.67 (J)  H = -1277852.41 (J)  S = 292.76 (J/K)  V = 42.54 (cc)  Cp = 149.80 (J/K)  
+
+Oxygen           delta moles = 5.40893e-05  delta grams = 0.00173079
+                 G = -17.67 (J)  H = 2.04 (J)  S = 0.01 (J/K)  V = 6.40 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1140.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.28  delta HM = -4.89  NNO = 0.00  QFM = 0.57  COH = 2.63  IW = 4.24
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 102.03 (gm)  density = 2.45 (gm/cc)  viscosity = 2.60 (log 10 poise)     (analysis in wt %)
+ 		G = -1651789.12 (J)  H = -1248413.24 (J)  S = 285.44 (J/K)  V = 41.66 (cc)  Cp = 146.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.45   0.98  11.73   1.83   0.00   6.87   0.98   5.17   0.00   0.00   8.28   2.25   1.86   0.14   2.45   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 2.50 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.35Mg1.53Fe'''0.02Ti0.00Al0.05Si1.97O6
+                 G = -39767.05 (J)  H = -31385.83 (J)  S = 5.93 (J/K)  V = 0.77 (cc)  Cp = 3.13 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -31.33         92.29         35.45          1.61         -1.36          3.24          0.09
+
+Total solids     mass = 2.50 (gm)  density = 3.25 (gm/cc)
+                 G = -39767.05 (J)  H = -31385.83 (J)  S = 5.93 (J/K)  V = 0.77 (cc)  Cp = 3.13 (J/K)  
+
+Viscosity of the System: 2.63 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.46 (gm/cc)
+                 G = -1691556.17 (J)  H = -1279799.07 (J)  S = 291.38 (J/K)  V = 42.43 (cc)  Cp = 149.32 (J/K)  
+
+Oxygen           delta moles = 1.45754e-05  delta grams = 0.000466394
+                 G = -4.72 (J)  H = 0.55 (J)  S = 0.00 (J/K)  V = 1.71 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1130.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.41  delta HM = -4.89  NNO = 0.00  QFM = 0.57  COH = 2.62  IW = 4.25
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 100.73 (gm)  density = 2.45 (gm/cc)  viscosity = 2.67 (log 10 poise)     (analysis in wt %)
+ 		G = -1628465.44 (J)  H = -1234158.15 (J)  S = 281.02 (J/K)  V = 41.15 (cc)  Cp = 144.11 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.49   0.99  11.87   1.83   0.00   6.80   0.99   4.88   0.00   0.00   8.36   2.28   1.89   0.14   2.48   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 3.79 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.37Mg1.51Fe'''0.02Ti0.00Al0.05Si1.96O6
+                 G = -60158.99 (J)  H = -47567.92 (J)  S = 8.97 (J/K)  V = 1.17 (cc)  Cp = 4.74 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -32.01         91.65         36.74          1.63         -1.38          3.27          0.10
+
+Total solids     mass = 3.79 (gm)  density = 3.25 (gm/cc)
+                 G = -60158.99 (J)  H = -47567.92 (J)  S = 8.97 (J/K)  V = 1.17 (cc)  Cp = 4.74 (J/K)  
+
+Viscosity of the System: 2.72 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.47 (gm/cc)
+                 G = -1688624.43 (J)  H = -1281726.06 (J)  S = 289.99 (J/K)  V = 42.32 (cc)  Cp = 148.86 (J/K)  
+
+Oxygen           delta moles = -3.06388e-05  delta grams = -0.000980403
+                 G = 9.85 (J)  H = -1.14 (J)  S = -0.01 (J/K)  V = -3.57 (cc)  Cp = -0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1120.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.53  delta HM = -4.90  NNO = 0.00  QFM = 0.56  COH = 2.60  IW = 4.26
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 99.45 (gm)  density = 2.45 (gm/cc)  viscosity = 2.74 (log 10 poise)     (analysis in wt %)
+ 		G = -1605664.46 (J)  H = -1220231.12 (J)  S = 276.66 (J/K)  V = 40.65 (cc)  Cp = 142.08 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.53   1.00  12.00   1.82   0.00   6.73   1.01   4.60   0.00   0.00   8.43   2.31   1.91   0.14   2.51   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.07 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.38Mg1.49Fe'''0.02Ti0.00Al0.05Si1.96O6
+                 G = -80038.74 (J)  H = -63404.00 (J)  S = 11.94 (J/K)  V = 1.56 (cc)  Cp = 6.32 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -32.65         90.95         38.05          1.65         -1.40          3.30          0.10
+
+Total solids     mass = 5.07 (gm)  density = 3.26 (gm/cc)
+                 G = -80038.74 (J)  H = -63404.00 (J)  S = 11.94 (J/K)  V = 1.56 (cc)  Cp = 6.32 (J/K)  
+
+Viscosity of the System: 2.80 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.48 (gm/cc)
+                 G = -1685703.20 (J)  H = -1283635.12 (J)  S = 288.60 (J/K)  V = 42.21 (cc)  Cp = 148.40 (J/K)  
+
+Oxygen           delta moles = -8.20276e-05  delta grams = -0.00262479
+                 G = 26.17 (J)  H = -3.01 (J)  S = -0.02 (J/K)  V = -9.50 (cc)  Cp = -0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1110.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.66  delta HM = -4.90  NNO = 0.00  QFM = 0.56  COH = 2.59  IW = 4.27
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 97.44 (gm)  density = 2.44 (gm/cc)  viscosity = 2.81 (log 10 poise)     (analysis in wt %)
+ 		G = -1571471.47 (J)  H = -1197370.11 (J)  S = 270.47 (J/K)  V = 39.89 (cc)  Cp = 138.94 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.63   1.02  12.21   1.82   0.00   6.66   1.03   4.29   0.00   0.00   8.33   2.36   1.95   0.14   2.57   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.74 (gm)  density = 3.27 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.40Mg1.47Fe'''0.02Ti0.00Al0.05Si1.96O6
+                 G = -90103.40 (J)  H = -71501.64 (J)  S = 13.45 (J/K)  V = 1.76 (cc)  Cp = 7.13 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -33.90         90.58         39.57          1.70         -1.44          3.39          0.11
+
+clinopyroxene    mass = 1.34 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.73Fe''0.23Mg0.95Fe'''0.04Ti0.01Al0.10Si1.92O6
+                 G = -21219.99 (J)  H = -16988.70 (J)  S = 3.06 (J/K)  V = 0.41 (cc)  Cp = 1.59 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              42.64         25.97         22.75          3.34         -1.84          6.26          0.88
+
+Total solids     mass = 7.08 (gm)  density = 3.26 (gm/cc)
+                 G = -111323.39 (J)  H = -88490.35 (J)  S = 16.51 (J/K)  V = 2.17 (cc)  Cp = 8.71 (J/K)  
+
+Viscosity of the System: 2.90 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.49 (gm/cc)
+                 G = -1682794.86 (J)  H = -1285860.46 (J)  S = 286.98 (J/K)  V = 42.06 (cc)  Cp = 147.66 (J/K)  
+
+Oxygen           delta moles = -0.000136179  delta grams = -0.00435758
+                 G = 43.10 (J)  H = -4.95 (J)  S = -0.03 (J/K)  V = -15.66 (cc)  Cp = -0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1100.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.80  delta HM = -4.91  NNO = 0.00  QFM = 0.55  COH = 2.57  IW = 4.28
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 94.60 (gm)  density = 2.44 (gm/cc)  viscosity = 2.89 (log 10 poise)     (analysis in wt %)
+ 		G = -1524415.35 (J)  H = -1164367.85 (J)  S = 262.21 (J/K)  V = 38.84 (cc)  Cp = 134.56 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       57.82   1.04  12.49   1.80   0.00   6.62   1.06   3.95   0.00   0.00   8.00   2.42   2.01   0.15   2.64   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.65 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.41Mg1.46Fe'''0.02Ti0.00Al0.05Si1.96O6
+                 G = -88225.59 (J)  H = -70123.61 (J)  S = 13.18 (J/K)  V = 1.73 (cc)  Cp = 7.00 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -36.09         90.74         41.41          1.80         -1.52          3.55          0.11
+
+clinopyroxene    mass = 4.26 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.74Fe''0.24Mg0.94Fe'''0.05Ti0.01Al0.11Si1.92O6
+                 G = -67268.53 (J)  H = -53958.33 (J)  S = 9.69 (J/K)  V = 1.31 (cc)  Cp = 5.03 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              41.76         25.50         23.52          3.60         -1.88          6.55          0.94
+
+Total solids     mass = 9.92 (gm)  density = 3.27 (gm/cc)
+                 G = -155494.12 (J)  H = -124081.93 (J)  S = 22.88 (J/K)  V = 3.04 (cc)  Cp = 12.03 (J/K)  
+
+Viscosity of the System: 3.02 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.50 (gm/cc)
+                 G = -1679909.47 (J)  H = -1288449.79 (J)  S = 285.08 (J/K)  V = 41.87 (cc)  Cp = 146.59 (J/K)  
+
+Oxygen           delta moles = -0.000181957  delta grams = -0.00582241
+                 G = 57.12 (J)  H = -6.54 (J)  S = -0.05 (J/K)  V = -20.77 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1090.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -8.93  delta HM = -4.91  NNO = 0.00  QFM = 0.55  COH = 2.56  IW = 4.29
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 91.97 (gm)  density = 2.43 (gm/cc)  viscosity = 2.97 (log 10 poise)     (analysis in wt %)
+ 		G = -1480886.75 (J)  H = -1133958.62 (J)  S = 254.50 (J/K)  V = 37.86 (cc)  Cp = 130.51 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       58.01   1.06  12.76   1.78   0.00   6.55   1.09   3.63   0.00   0.00   7.69   2.49   2.07   0.15   2.72   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.63 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.43Mg1.44Fe'''0.02Ti0.00Al0.06Si1.96O6
+                 G = -87246.88 (J)  H = -69456.11 (J)  S = 13.05 (J/K)  V = 1.71 (cc)  Cp = 6.94 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -38.32         90.91         43.29          1.90         -1.60          3.70          0.11
+
+clinopyroxene    mass = 6.93 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.74Fe''0.24Mg0.92Fe'''0.05Ti0.01Al0.12Si1.91O6
+                 G = -108912.77 (J)  H = -87530.51 (J)  S = 15.69 (J/K)  V = 2.13 (cc)  Cp = 8.16 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              40.89         25.00         24.28          3.88         -1.91          6.85          1.01
+
+Total solids     mass = 12.55 (gm)  density = 3.27 (gm/cc)
+                 G = -196159.65 (J)  H = -156986.62 (J)  S = 28.74 (J/K)  V = 3.84 (cc)  Cp = 15.09 (J/K)  
+
+Viscosity of the System: 3.14 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.51 (gm/cc)
+                 G = -1677046.39 (J)  H = -1290945.24 (J)  S = 283.24 (J/K)  V = 41.70 (cc)  Cp = 145.60 (J/K)  
+
+Oxygen           delta moles = -0.000221146  delta grams = -0.00707642
+                 G = 68.87 (J)  H = -7.87 (J)  S = -0.06 (J/K)  V = -25.06 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1080.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.06  delta HM = -4.92  NNO = 0.00  QFM = 0.55  COH = 2.54  IW = 4.30
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 89.50 (gm)  density = 2.42 (gm/cc)  viscosity = 3.05 (log 10 poise)     (analysis in wt %)
+ 		G = -1440466.31 (J)  H = -1105832.36 (J)  S = 247.30 (J/K)  V = 36.95 (cc)  Cp = 126.73 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       58.22   1.07  13.02   1.76   0.00   6.46   1.12   3.33   0.00   0.00   7.39   2.55   2.12   0.16   2.79   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.65 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.45Mg1.42Fe'''0.02Ti0.00Al0.06Si1.96O6
+                 G = -87140.73 (J)  H = -69481.55 (J)  S = 13.05 (J/K)  V = 1.72 (cc)  Cp = 6.95 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -40.61         91.08         45.22          2.00         -1.68          3.87          0.12
+
+clinopyroxene    mass = 9.36 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.74Fe''0.25Mg0.90Fe'''0.05Ti0.01Al0.12Si1.91O6
+                 G = -146597.57 (J)  H = -118044.27 (J)  S = 21.10 (J/K)  V = 2.87 (cc)  Cp = 10.99 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              40.05         24.46         25.02          4.17         -1.93          7.14          1.08
+
+Total solids     mass = 15.02 (gm)  density = 3.28 (gm/cc)
+                 G = -233738.30 (J)  H = -187525.82 (J)  S = 34.15 (J/K)  V = 4.58 (cc)  Cp = 17.94 (J/K)  
+
+Viscosity of the System: 3.26 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.52 (gm/cc)
+                 G = -1674204.61 (J)  H = -1293358.18 (J)  S = 281.45 (J/K)  V = 41.53 (cc)  Cp = 144.67 (J/K)  
+
+Oxygen           delta moles = -0.000254602  delta grams = -0.00814695
+                 G = 78.64 (J)  H = -8.97 (J)  S = -0.06 (J/K)  V = -28.64 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1070.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.20  delta HM = -4.93  NNO = 0.00  QFM = 0.54  COH = 2.52  IW = 4.31
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 87.20 (gm)  density = 2.42 (gm/cc)  viscosity = 3.13 (log 10 poise)     (analysis in wt %)
+ 		G = -1402795.56 (J)  H = -1079723.68 (J)  S = 240.53 (J/K)  V = 36.09 (cc)  Cp = 123.21 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       58.45   1.08  13.27   1.73   0.00   6.35   1.15   3.06   0.00   0.00   7.09   2.62   2.18   0.16   2.87   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.74 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.09Fe''0.47Mg1.40Fe'''0.02Ti0.00Al0.06Si1.96O6
+                 G = -87877.83 (J)  H = -70179.96 (J)  S = 13.18 (J/K)  V = 1.74 (cc)  Cp = 7.02 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -42.94         91.26         47.18          2.11         -1.77          4.03          0.12
+
+clinopyroxene    mass = 11.59 (gm)  density = 3.27 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.75Fe''0.26Mg0.88Fe'''0.05Ti0.01Al0.13Si1.90O6
+                 G = -180709.79 (J)  H = -145794.63 (J)  S = 25.99 (J/K)  V = 3.54 (cc)  Cp = 13.56 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.23         23.89         25.75          4.49         -1.94          7.44          1.15
+
+Total solids     mass = 17.32 (gm)  density = 3.28 (gm/cc)
+                 G = -268587.62 (J)  H = -215974.58 (J)  S = 39.17 (J/K)  V = 5.28 (cc)  Cp = 20.59 (J/K)  
+
+Viscosity of the System: 3.38 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.53 (gm/cc)
+                 G = -1671383.18 (J)  H = -1295698.26 (J)  S = 279.70 (J/K)  V = 41.37 (cc)  Cp = 143.80 (J/K)  
+
+Oxygen           delta moles = -0.000283203  delta grams = -0.00906217
+                 G = 86.75 (J)  H = -9.88 (J)  S = -0.07 (J/K)  V = -31.63 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1060.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.34  delta HM = -4.93  NNO = 0.00  QFM = 0.54  COH = 2.51  IW = 4.32
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 85.02 (gm)  density = 2.41 (gm/cc)  viscosity = 3.21 (log 10 poise)     (analysis in wt %)
+ 		G = -1367568.49 (J)  H = -1055405.76 (J)  S = 234.15 (J/K)  V = 35.30 (cc)  Cp = 119.92 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       58.68   1.09  13.50   1.70   0.00   6.22   1.18   2.80   0.00   0.00   6.81   2.68   2.23   0.16   2.94   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 5.87 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.49Mg1.38Fe'''0.02Ti0.00Al0.07Si1.95O6
+                 G = -89423.70 (J)  H = -71527.14 (J)  S = 13.42 (J/K)  V = 1.77 (cc)  Cp = 7.17 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -45.31         91.44         49.18          2.22         -1.85          4.19          0.12
+
+clinopyroxene    mass = 13.62 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.75Fe''0.26Mg0.86Fe'''0.06Ti0.01Al0.14Si1.89O6
+                 G = -211589.01 (J)  H = -171040.79 (J)  S = 30.42 (J/K)  V = 4.15 (cc)  Cp = 15.89 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.43         23.28         26.45          4.83         -1.94          7.72          1.23
+
+Total solids     mass = 19.49 (gm)  density = 3.29 (gm/cc)
+                 G = -301012.71 (J)  H = -242567.93 (J)  S = 43.84 (J/K)  V = 5.93 (cc)  Cp = 23.06 (J/K)  
+
+Viscosity of the System: 3.51 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.54 (gm/cc)
+                 G = -1668581.19 (J)  H = -1297973.69 (J)  S = 277.99 (J/K)  V = 41.22 (cc)  Cp = 142.98 (J/K)  
+
+Oxygen           delta moles = -0.000307874  delta grams = -0.00985159
+                 G = 93.52 (J)  H = -10.63 (J)  S = -0.08 (J/K)  V = -34.13 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1050.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.48  delta HM = -4.94  NNO = 0.00  QFM = 0.53  COH = 2.49  IW = 4.33
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 82.98 (gm)  density = 2.40 (gm/cc)  viscosity = 3.30 (log 10 poise)     (analysis in wt %)
+ 		G = -1334525.14 (J)  H = -1032685.64 (J)  S = 228.12 (J/K)  V = 34.54 (cc)  Cp = 116.82 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       58.93   1.09  13.73   1.67   0.00   6.07   1.21   2.56   0.00   0.00   6.53   2.74   2.29   0.17   3.01   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.06 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.51Mg1.36Fe'''0.02Ti0.00Al0.07Si1.95O6
+                 G = -91736.62 (J)  H = -73492.99 (J)  S = 13.79 (J/K)  V = 1.82 (cc)  Cp = 7.37 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -47.71         91.63         51.21          2.33         -1.94          4.36          0.13
+
+clinopyroxene    mass = 15.48 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.76Fe''0.27Mg0.85Fe'''0.06Ti0.02Al0.15Si1.89O6
+                 G = -239536.01 (J)  H = -194012.73 (J)  S = 34.41 (J/K)  V = 4.71 (cc)  Cp = 18.01 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              37.66         22.64         27.12          5.19         -1.93          8.00          1.32
+
+Total solids     mass = 21.54 (gm)  density = 3.30 (gm/cc)
+                 G = -331272.63 (J)  H = -267505.72 (J)  S = 48.19 (J/K)  V = 6.54 (cc)  Cp = 25.38 (J/K)  
+
+Viscosity of the System: 3.63 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.54 (gm/cc)
+                 G = -1665797.77 (J)  H = -1300191.36 (J)  S = 276.32 (J/K)  V = 41.08 (cc)  Cp = 142.20 (J/K)  
+
+Oxygen           delta moles = -0.000329591  delta grams = -0.0105465
+                 G = 99.29 (J)  H = -11.26 (J)  S = -0.08 (J/K)  V = -36.26 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1040.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.62  delta HM = -4.94  NNO = 0.00  QFM = 0.53  COH = 2.47  IW = 4.34
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 81.04 (gm)  density = 2.40 (gm/cc)  viscosity = 3.38 (log 10 poise)     (analysis in wt %)
+ 		G = -1303446.48 (J)  H = -1011400.50 (J)  S = 222.40 (J/K)  V = 33.83 (cc)  Cp = 113.90 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       59.20   1.09  13.94   1.63   0.00   5.91   1.23   2.34   0.00   0.00   6.26   2.80   2.34   0.17   3.09   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.30 (gm)  density = 3.33 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.53Mg1.34Fe'''0.02Ti0.00Al0.07Si1.95O6
+                 G = -94765.86 (J)  H = -76040.01 (J)  S = 14.26 (J/K)  V = 1.89 (cc)  Cp = 7.64 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -50.14         91.83         53.26          2.44         -2.04          4.52          0.13
+
+clinopyroxene    mass = 17.18 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.77Fe''0.28Mg0.83Fe'''0.06Ti0.02Al0.15Si1.88O6
+                 G = -264819.71 (J)  H = -214916.47 (J)  S = 38.00 (J/K)  V = 5.22 (cc)  Cp = 19.93 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              36.92         21.97         27.75          5.58         -1.90          8.26          1.42
+
+Total solids     mass = 23.48 (gm)  density = 3.30 (gm/cc)
+                 G = -359585.56 (J)  H = -290956.48 (J)  S = 52.26 (J/K)  V = 7.11 (cc)  Cp = 27.57 (J/K)  
+
+Viscosity of the System: 3.75 (log 10 poise)
+
+System           mass = 104.52 (gm)  density = 2.55 (gm/cc)
+                 G = -1663032.04 (J)  H = -1302356.98 (J)  S = 274.66 (J/K)  V = 40.94 (cc)  Cp = 141.47 (J/K)  
+
+Oxygen           delta moles = -0.000349404  delta grams = -0.0111805
+                 G = 104.37 (J)  H = -11.81 (J)  S = -0.09 (J/K)  V = -38.15 (cc)  Cp = -0.01 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1030.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.77  delta HM = -4.95  NNO = 0.00  QFM = 0.53  COH = 2.45  IW = 4.35
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 78.94 (gm)  density = 2.38 (gm/cc)  viscosity = 3.50 (log 10 poise)     (analysis in wt %)
+ 		G = -1272749.00 (J)  H = -990791.74 (J)  S = 216.37 (J/K)  V = 33.12 (cc)  Cp = 110.81 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       59.74   1.03  14.19   1.53   0.00   5.49   1.27   2.14   0.00   0.00   6.00   2.86   2.41   0.18   3.17   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.33 (gm)  density = 3.34 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.55Mg1.33Fe'''0.02Ti0.00Al0.07Si1.95O6
+                 G = -94793.11 (J)  H = -76211.75 (J)  S = 14.26 (J/K)  V = 1.90 (cc)  Cp = 7.66 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -51.70         92.01         54.53          2.54         -2.14          4.62          0.13
+
+clinopyroxene    mass = 18.82 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.77Fe''0.28Mg0.81Fe'''0.06Ti0.02Al0.16Si1.88O6
+                 G = -289515.19 (J)  H = -235501.38 (J)  S = 41.45 (J/K)  V = 5.71 (cc)  Cp = 21.79 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              37.05         21.24         27.92          5.87         -1.97          8.40          1.50
+
+spinel           mass = 0.43 (gm)  density = 4.72 (gm/cc)     (analysis in mole %)
+                 Fe''1.09Mg0.22Fe'''1.21Al0.17Cr0.00Ti0.31O4
+                 G = -3439.80 (J)  H = -2301.43 (J)  S = 0.87 (J/K)  V = 0.09 (cc)  Cp = 0.40 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -13.69         60.39         21.99         31.31
+
+Total solids     mass = 25.58 (gm)  density = 3.32 (gm/cc)
+                 G = -387748.11 (J)  H = -314014.56 (J)  S = 56.58 (J/K)  V = 7.70 (cc)  Cp = 29.84 (J/K)  
+
+Viscosity of the System: 3.91 (log 10 poise)
+
+System           mass = 104.53 (gm)  density = 2.56 (gm/cc)
+                 G = -1660497.11 (J)  H = -1304806.30 (J)  S = 272.95 (J/K)  V = 40.82 (cc)  Cp = 140.65 (J/K)  
+
+Oxygen           delta moles = 2.69723e-05  delta grams = 0.000863081
+                 G = -7.99 (J)  H = 0.90 (J)  S = 0.01 (J/K)  V = 2.92 (cc)  Cp = 0.00 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1020.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -9.92  delta HM = -4.96  NNO = 0.00  QFM = 0.52  COH = 2.44  IW = 4.36
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 77.02 (gm)  density = 2.37 (gm/cc)  viscosity = 3.62 (log 10 poise)     (analysis in wt %)
+ 		G = -1244847.65 (J)  H = -972285.00 (J)  S = 210.77 (J/K)  V = 32.47 (cc)  Cp = 107.97 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       60.31   0.97  14.42   1.42   0.00   5.06   1.30   1.96   0.00   0.00   5.74   2.93   2.47   0.18   3.25   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.32 (gm)  density = 3.35 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.08Fe''0.56Mg1.32Fe'''0.02Ti0.00Al0.07Si1.95O6
+                 G = -94307.81 (J)  H = -75980.19 (J)  S = 14.17 (J/K)  V = 1.89 (cc)  Cp = 7.63 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -52.98         92.19         55.57          2.63         -2.24          4.69          0.14
+
+clinopyroxene    mass = 20.30 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.28Mg0.80Fe'''0.06Ti0.02Al0.16Si1.87O6
+                 G = -311646.81 (J)  H = -254113.77 (J)  S = 44.49 (J/K)  V = 6.15 (cc)  Cp = 23.45 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              37.41         20.51         27.93          6.13         -2.07          8.50          1.58
+
+spinel           mass = 0.90 (gm)  density = 4.73 (gm/cc)     (analysis in mole %)
+                 Fe''1.10Mg0.21Fe'''1.21Al0.17Cr0.00Ti0.31O4
+                 G = -7197.52 (J)  H = -4830.50 (J)  S = 1.83 (J/K)  V = 0.19 (cc)  Cp = 0.83 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -12.91         60.61         21.21         31.09
+
+Total solids     mass = 27.52 (gm)  density = 3.34 (gm/cc)
+                 G = -413152.14 (J)  H = -334924.45 (J)  S = 60.49 (J/K)  V = 8.23 (cc)  Cp = 31.92 (J/K)  
+
+Viscosity of the System: 4.07 (log 10 poise)
+
+System           mass = 104.54 (gm)  density = 2.57 (gm/cc)
+                 G = -1657999.80 (J)  H = -1307209.45 (J)  S = 271.27 (J/K)  V = 40.71 (cc)  Cp = 139.89 (J/K)  
+
+Oxygen           delta moles = 0.000441831  delta grams = 0.014138
+                 G = -129.74 (J)  H = 14.62 (J)  S = 0.11 (J/K)  V = 47.50 (cc)  Cp = 0.02 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1010.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.07  delta HM = -4.96  NNO = 0.00  QFM = 0.52  COH = 2.42  IW = 4.37
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 75.31 (gm)  density = 2.36 (gm/cc)  viscosity = 3.73 (log 10 poise)     (analysis in wt %)
+ 		G = -1219761.53 (J)  H = -955776.07 (J)  S = 205.73 (J/K)  V = 31.89 (cc)  Cp = 105.44 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       60.83   0.91  14.63   1.32   0.00   4.66   1.33   1.80   0.00   0.00   5.50   2.99   2.52   0.19   3.32   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.35 (gm)  density = 3.35 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.57Mg1.31Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -94296.12 (J)  H = -76130.18 (J)  S = 14.16 (J/K)  V = 1.89 (cc)  Cp = 7.64 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -54.25         92.37         56.60          2.73         -2.34          4.76          0.14
+
+clinopyroxene    mass = 21.60 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.79Fe''0.28Mg0.79Fe'''0.06Ti0.02Al0.17Si1.87O6
+                 G = -331115.05 (J)  H = -270636.64 (J)  S = 47.13 (J/K)  V = 6.54 (cc)  Cp = 24.92 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              37.76         19.81         27.94          6.40         -2.16          8.59          1.67
+
+spinel           mass = 1.30 (gm)  density = 4.74 (gm/cc)     (analysis in mole %)
+                 Fe''1.10Mg0.20Fe'''1.22Al0.17Cr0.00Ti0.31O4
+                 G = -10306.15 (J)  H = -6938.73 (J)  S = 2.62 (J/K)  V = 0.27 (cc)  Cp = 1.20 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -12.18         60.81         20.47         30.89
+
+Total solids     mass = 29.25 (gm)  density = 3.36 (gm/cc)
+                 G = -435717.32 (J)  H = -353705.55 (J)  S = 63.91 (J/K)  V = 8.71 (cc)  Cp = 33.76 (J/K)  
+
+Viscosity of the System: 4.22 (log 10 poise)
+
+System           mass = 104.55 (gm)  density = 2.58 (gm/cc)
+                 G = -1655478.85 (J)  H = -1309481.62 (J)  S = 269.65 (J/K)  V = 40.60 (cc)  Cp = 139.20 (J/K)  
+
+Oxygen           delta moles = 0.000782806  delta grams = 0.0250489
+                 G = -227.89 (J)  H = 25.62 (J)  S = 0.20 (J/K)  V = 83.51 (cc)  Cp = 0.03 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 1000.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.22  delta HM = -4.97  NNO = 0.00  QFM = 0.51  COH = 2.40  IW = 4.39
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 73.77 (gm)  density = 2.35 (gm/cc)  viscosity = 3.84 (log 10 poise)     (analysis in wt %)
+ 		G = -1196999.20 (J)  H = -940912.76 (J)  S = 201.14 (J/K)  V = 31.36 (cc)  Cp = 103.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       61.31   0.86  14.83   1.24   0.00   4.31   1.36   1.65   0.00   0.00   5.27   3.04   2.58   0.19   3.39   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.40 (gm)  density = 3.36 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.58Mg1.30Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -94683.28 (J)  H = -76603.43 (J)  S = 14.20 (J/K)  V = 1.91 (cc)  Cp = 7.69 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -55.52         92.54         57.62          2.82         -2.43          4.83          0.14
+
+clinopyroxene    mass = 22.76 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.79Fe''0.28Mg0.79Fe'''0.06Ti0.02Al0.17Si1.87O6
+                 G = -348374.58 (J)  H = -285426.48 (J)  S = 49.44 (J/K)  V = 6.89 (cc)  Cp = 26.21 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.09         19.13         27.93          6.67         -2.25          8.67          1.76
+
+spinel           mass = 1.63 (gm)  density = 4.74 (gm/cc)     (analysis in mole %)
+                 Fe''1.11Mg0.20Fe'''1.22Al0.17Cr0.00Ti0.31O4
+                 G = -12883.61 (J)  H = -8702.00 (J)  S = 3.28 (J/K)  V = 0.34 (cc)  Cp = 1.50 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -11.48         61.00         19.77         30.72
+
+Total solids     mass = 30.79 (gm)  density = 3.37 (gm/cc)
+                 G = -455941.46 (J)  H = -370731.91 (J)  S = 66.93 (J/K)  V = 9.14 (cc)  Cp = 35.40 (J/K)  
+
+Viscosity of the System: 4.36 (log 10 poise)
+
+System           mass = 104.56 (gm)  density = 2.58 (gm/cc)
+                 G = -1652940.66 (J)  H = -1311644.67 (J)  S = 268.07 (J/K)  V = 40.50 (cc)  Cp = 138.57 (J/K)  
+
+Oxygen           delta moles = 0.00106251  delta grams = 0.0339991
+                 G = -306.64 (J)  H = 34.39 (J)  S = 0.27 (J/K)  V = 112.47 (cc)  Cp = 0.04 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 990.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.38  delta HM = -4.98  NNO = 0.00  QFM = 0.51  COH = 2.38  IW = 4.40
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 72.38 (gm)  density = 2.34 (gm/cc)  viscosity = 3.95 (log 10 poise)     (analysis in wt %)
+ 		G = -1176180.72 (J)  H = -927422.80 (J)  S = 196.93 (J/K)  V = 30.88 (cc)  Cp = 101.11 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       61.75   0.81  15.00   1.15   0.00   3.98   1.38   1.52   0.00   0.00   5.04   3.09   2.63   0.19   3.45   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.47 (gm)  density = 3.36 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.59Mg1.29Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -95414.37 (J)  H = -77357.29 (J)  S = 14.30 (J/K)  V = 1.92 (cc)  Cp = 7.76 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -56.80         92.72         58.66          2.92         -2.54          4.89          0.15
+
+clinopyroxene    mass = 23.81 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.80Fe''0.28Mg0.78Fe'''0.06Ti0.02Al0.18Si1.87O6
+                 G = -363776.69 (J)  H = -298758.45 (J)  S = 51.47 (J/K)  V = 7.20 (cc)  Cp = 27.37 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.39         18.47         27.93          6.96         -2.34          8.74          1.86
+
+spinel           mass = 1.91 (gm)  density = 4.75 (gm/cc)     (analysis in mole %)
+                 Fe''1.11Mg0.19Fe'''1.22Al0.17Cr0.00Ti0.31O4
+                 G = -15018.26 (J)  H = -10176.93 (J)  S = 3.83 (J/K)  V = 0.40 (cc)  Cp = 1.76 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -10.82         61.18         19.09         30.56
+
+Total solids     mass = 32.19 (gm)  density = 3.38 (gm/cc)
+                 G = -474209.32 (J)  H = -386292.66 (J)  S = 69.60 (J/K)  V = 9.53 (cc)  Cp = 36.89 (J/K)  
+
+Viscosity of the System: 4.51 (log 10 poise)
+
+System           mass = 104.57 (gm)  density = 2.59 (gm/cc)
+                 G = -1650390.04 (J)  H = -1313715.46 (J)  S = 266.54 (J/K)  V = 40.41 (cc)  Cp = 137.99 (J/K)  
+
+Oxygen           delta moles = 0.00129053  delta grams = 0.0412953
+                 G = -369.19 (J)  H = 41.30 (J)  S = 0.32 (J/K)  V = 135.53 (cc)  Cp = 0.05 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 980.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.53  delta HM = -4.98  NNO = 0.00  QFM = 0.51  COH = 2.36  IW = 4.41
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 71.11 (gm)  density = 2.34 (gm/cc)  viscosity = 4.06 (log 10 poise)     (analysis in wt %)
+ 		G = -1157006.01 (J)  H = -915091.08 (J)  S = 193.05 (J/K)  V = 30.43 (cc)  Cp = 99.22 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       62.16   0.76  15.17   1.08   0.00   3.68   1.41   1.40   0.00   0.00   4.82   3.14   2.67   0.20   3.52   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.57 (gm)  density = 3.37 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.60Mg1.28Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -96448.94 (J)  H = -78360.49 (J)  S = 14.43 (J/K)  V = 1.95 (cc)  Cp = 7.86 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -58.09         92.90         59.70          3.01         -2.64          4.96          0.15
+
+clinopyroxene    mass = 24.75 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.80Fe''0.28Mg0.77Fe'''0.06Ti0.02Al0.18Si1.86O6
+                 G = -377598.16 (J)  H = -310849.13 (J)  S = 53.27 (J/K)  V = 7.48 (cc)  Cp = 28.41 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.67         17.83         27.91          7.25         -2.41          8.80          1.96
+
+spinel           mass = 2.15 (gm)  density = 4.76 (gm/cc)     (analysis in mole %)
+                 Fe''1.12Mg0.18Fe'''1.23Al0.16Cr0.00Ti0.30O4
+                 G = -16777.56 (J)  H = -11406.56 (J)  S = 4.29 (J/K)  V = 0.45 (cc)  Cp = 1.97 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -10.19         61.36         18.43         30.41
+
+Total solids     mass = 33.47 (gm)  density = 3.39 (gm/cc)
+                 G = -490824.67 (J)  H = -400616.18 (J)  S = 71.99 (J/K)  V = 9.88 (cc)  Cp = 38.23 (J/K)  
+
+Viscosity of the System: 4.65 (log 10 poise)
+
+System           mass = 104.58 (gm)  density = 2.59 (gm/cc)
+                 G = -1647830.68 (J)  H = -1315707.26 (J)  S = 265.03 (J/K)  V = 40.32 (cc)  Cp = 137.46 (J/K)  
+
+Oxygen           delta moles = 0.00147423  delta grams = 0.0471737
+                 G = -418.04 (J)  H = 46.66 (J)  S = 0.37 (J/K)  V = 153.60 (cc)  Cp = 0.05 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 970.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.69  delta HM = -4.99  NNO = 0.00  QFM = 0.50  COH = 2.34  IW = 4.42
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 69.95 (gm)  density = 2.33 (gm/cc)  viscosity = 4.16 (log 10 poise)     (analysis in wt %)
+ 		G = -1139233.57 (J)  H = -903744.36 (J)  S = 189.43 (J/K)  V = 30.02 (cc)  Cp = 97.49 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       62.54   0.72  15.31   1.01   0.00   3.41   1.43   1.29   0.00   0.00   4.62   3.18   2.72   0.20   3.57   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.68 (gm)  density = 3.37 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.61Mg1.27Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -97757.28 (J)  H = -79590.27 (J)  S = 14.61 (J/K)  V = 1.98 (cc)  Cp = 7.98 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -59.39         93.08         60.75          3.11         -2.74          5.03          0.15
+
+clinopyroxene    mass = 25.61 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.81Fe''0.28Mg0.76Fe'''0.06Ti0.03Al0.18Si1.86O6
+                 G = -390060.85 (J)  H = -321871.96 (J)  S = 54.85 (J/K)  V = 7.73 (cc)  Cp = 29.34 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.91         17.20         27.90          7.55         -2.49          8.86          2.06
+
+spinel           mass = 2.35 (gm)  density = 4.77 (gm/cc)     (analysis in mole %)
+                 Fe''1.12Mg0.18Fe'''1.23Al0.16Cr0.00Ti0.30O4
+                 G = -18213.72 (J)  H = -12424.07 (J)  S = 4.66 (J/K)  V = 0.49 (cc)  Cp = 2.15 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -9.59         61.54         17.79         30.26
+
+Total solids     mass = 34.63 (gm)  density = 3.39 (gm/cc)
+                 G = -506031.86 (J)  H = -413886.30 (J)  S = 74.12 (J/K)  V = 10.21 (cc)  Cp = 39.47 (J/K)  
+
+Viscosity of the System: 4.78 (log 10 poise)
+
+System           mass = 104.58 (gm)  density = 2.60 (gm/cc)
+                 G = -1645265.43 (J)  H = -1317630.66 (J)  S = 263.55 (J/K)  V = 40.23 (cc)  Cp = 136.96 (J/K)  
+
+Oxygen           delta moles = 0.00161937  delta grams = 0.0518178
+                 G = -455.12 (J)  H = 50.67 (J)  S = 0.41 (J/K)  V = 167.38 (cc)  Cp = 0.06 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 960.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -10.86  delta HM = -5.00  NNO = 0.00  QFM = 0.50  COH = 2.32  IW = 4.43
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 68.87 (gm)  density = 2.32 (gm/cc)  viscosity = 4.27 (log 10 poise)     (analysis in wt %)
+ 		G = -1122665.74 (J)  H = -893240.63 (J)  S = 186.05 (J/K)  V = 29.64 (cc)  Cp = 95.90 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       62.90   0.68  15.45   0.94   0.00   3.15   1.45   1.19   0.00   0.00   4.42   3.22   2.76   0.20   3.63   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.81 (gm)  density = 3.38 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.07Fe''0.62Mg1.26Fe'''0.02Ti0.00Al0.08Si1.95O6
+                 G = -99317.91 (J)  H = -81030.39 (J)  S = 14.83 (J/K)  V = 2.02 (cc)  Cp = 8.12 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -60.70         93.26         61.82          3.21         -2.84          5.10          0.16
+
+clinopyroxene    mass = 26.39 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.81Fe''0.28Mg0.75Fe'''0.06Ti0.03Al0.19Si1.86O6
+                 G = -401345.27 (J)  H = -331967.96 (J)  S = 56.26 (J/K)  V = 7.96 (cc)  Cp = 30.19 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.13         16.60         27.88          7.85         -2.55          8.91          2.17
+
+spinel           mass = 2.51 (gm)  density = 4.77 (gm/cc)     (analysis in mole %)
+                 Fe''1.13Mg0.17Fe'''1.23Al0.16Cr0.00Ti0.30O4
+                 G = -19367.59 (J)  H = -13255.25 (J)  S = 4.96 (J/K)  V = 0.53 (cc)  Cp = 2.29 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -9.00         61.72         17.17         30.11
+
+Total solids     mass = 35.71 (gm)  density = 3.40 (gm/cc)
+                 G = -520030.77 (J)  H = -426253.60 (J)  S = 76.05 (J/K)  V = 10.50 (cc)  Cp = 40.60 (J/K)  
+
+Viscosity of the System: 4.91 (log 10 poise)
+
+System           mass = 104.58 (gm)  density = 2.61 (gm/cc)
+                 G = -1642696.51 (J)  H = -1319494.22 (J)  S = 262.09 (J/K)  V = 40.14 (cc)  Cp = 136.49 (J/K)  
+
+Oxygen           delta moles = 0.00173041  delta grams = 0.055371
+                 G = -481.98 (J)  H = 53.53 (J)  S = 0.43 (J/K)  V = 177.42 (cc)  Cp = 0.06 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 950.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.02  delta HM = -5.00  NNO = 0.00  QFM = 0.49  COH = 2.31  IW = 4.45
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 67.88 (gm)  density = 2.32 (gm/cc)  viscosity = 4.37 (log 10 poise)     (analysis in wt %)
+ 		G = -1107138.19 (J)  H = -883461.62 (J)  S = 182.87 (J/K)  V = 29.27 (cc)  Cp = 94.41 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       63.23   0.65  15.57   0.88   0.00   2.92   1.47   1.10   0.00   0.00   4.23   3.26   2.80   0.21   3.68   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 6.96 (gm)  density = 3.39 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.63Mg1.25Fe'''0.02Ti0.00Al0.09Si1.94O6
+                 G = -101115.80 (J)  H = -82669.74 (J)  S = 15.08 (J/K)  V = 2.06 (cc)  Cp = 8.28 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -62.04         93.44         62.91          3.31         -2.95          5.17          0.16
+
+clinopyroxene    mass = 27.11 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.82Fe''0.28Mg0.74Fe'''0.06Ti0.03Al0.19Si1.85O6
+                 G = -411600.29 (J)  H = -341253.32 (J)  S = 57.51 (J/K)  V = 8.17 (cc)  Cp = 30.95 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.32         16.02         27.87          8.17         -2.62          8.95          2.29
+
+spinel           mass = 2.64 (gm)  density = 4.78 (gm/cc)     (analysis in mole %)
+                 Fe''1.13Mg0.17Fe'''1.24Al0.16Cr0.00Ti0.30O4
+                 G = -20271.36 (J)  H = -13920.28 (J)  S = 5.19 (J/K)  V = 0.55 (cc)  Cp = 2.41 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -8.44         61.91         16.57         29.96
+
+Total solids     mass = 36.71 (gm)  density = 3.40 (gm/cc)
+                 G = -532987.45 (J)  H = -437843.33 (J)  S = 77.79 (J/K)  V = 10.78 (cc)  Cp = 41.64 (J/K)  
+
+Viscosity of the System: 5.04 (log 10 poise)
+
+System           mass = 104.59 (gm)  density = 2.61 (gm/cc)
+                 G = -1640125.65 (J)  H = -1321304.95 (J)  S = 260.66 (J/K)  V = 40.05 (cc)  Cp = 136.06 (J/K)  
+
+Oxygen           delta moles = 0.00181086  delta grams = 0.0579452
+                 G = -499.85 (J)  H = 55.37 (J)  S = 0.45 (J/K)  V = 184.16 (cc)  Cp = 0.06 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 940.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.19  delta HM = -5.01  NNO = 0.00  QFM = 0.49  COH = 2.28  IW = 4.46
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 66.95 (gm)  density = 2.31 (gm/cc)  viscosity = 4.47 (log 10 poise)     (analysis in wt %)
+ 		G = -1092512.34 (J)  H = -874307.30 (J)  S = 179.87 (J/K)  V = 28.93 (cc)  Cp = 93.03 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       63.54   0.61  15.69   0.83   0.00   2.71   1.49   1.01   0.00   0.00   4.04   3.29   2.84   0.21   3.73   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 7.13 (gm)  density = 3.39 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.64Mg1.24Fe'''0.02Ti0.00Al0.09Si1.94O6
+                 G = -103141.14 (J)  H = -84501.36 (J)  S = 15.36 (J/K)  V = 2.10 (cc)  Cp = 8.46 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -63.41         93.63         64.02          3.41         -3.05          5.24          0.16
+
+clinopyroxene    mass = 27.76 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.82Fe''0.28Mg0.73Fe'''0.06Ti0.03Al0.20Si1.85O6
+                 G = -420950.19 (J)  H = -349824.99 (J)  S = 58.63 (J/K)  V = 8.36 (cc)  Cp = 31.65 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.47         15.44         27.86          8.49         -2.67          8.99          2.42
+
+spinel           mass = 2.74 (gm)  density = 4.79 (gm/cc)     (analysis in mole %)
+                 Fe''1.14Mg0.16Fe'''1.24Al0.16Cr0.00Ti0.30O4
+                 G = -20950.49 (J)  H = -14434.96 (J)  S = 5.37 (J/K)  V = 0.57 (cc)  Cp = 2.50 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -7.89         62.12         15.97         29.80
+
+Total solids     mass = 37.64 (gm)  density = 3.41 (gm/cc)
+                 G = -545041.82 (J)  H = -448761.32 (J)  S = 79.36 (J/K)  V = 11.04 (cc)  Cp = 42.61 (J/K)  
+
+Viscosity of the System: 5.17 (log 10 poise)
+
+System           mass = 104.59 (gm)  density = 2.62 (gm/cc)
+                 G = -1637554.16 (J)  H = -1323068.62 (J)  S = 259.23 (J/K)  V = 39.97 (cc)  Cp = 135.64 (J/K)  
+
+Oxygen           delta moles = 0.00186341  delta grams = 0.0596269
+                 G = -509.69 (J)  H = 56.31 (J)  S = 0.47 (J/K)  V = 187.95 (cc)  Cp = 0.07 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 930.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.36  delta HM = -5.02  NNO = 0.00  QFM = 0.48  COH = 2.26  IW = 4.47
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 66.08 (gm)  density = 2.31 (gm/cc)  viscosity = 4.57 (log 10 poise)     (analysis in wt %)
+ 		G = -1078669.66 (J)  H = -865691.82 (J)  S = 177.02 (J/K)  V = 28.61 (cc)  Cp = 91.73 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       63.82   0.58  15.79   0.78   0.00   2.51   1.51   0.93   0.00   0.00   3.87   3.33   2.88   0.21   3.78   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 7.32 (gm)  density = 3.40 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.65Mg1.23Fe'''0.02Ti0.00Al0.09Si1.94O6
+                 G = -105388.46 (J)  H = -86521.83 (J)  S = 15.68 (J/K)  V = 2.15 (cc)  Cp = 8.66 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -64.80         93.81         65.16          3.51         -3.16          5.32          0.17
+
+clinopyroxene    mass = 28.37 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 cpx Na0.03Ca0.83Fe''0.28Mg0.72Fe'''0.06Ti0.03Al0.20Si1.85O6
+                 G = -429499.86 (J)  H = -357764.77 (J)  S = 59.62 (J/K)  V = 8.54 (cc)  Cp = 32.29 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.60         14.89         27.85          8.83         -2.72          9.02          2.55
+
+spinel           mass = 2.82 (gm)  density = 4.79 (gm/cc)     (analysis in mole %)
+                 Fe''1.14Mg0.15Fe'''1.25Al0.16Cr0.00Ti0.30O4
+                 G = -21425.06 (J)  H = -14811.62 (J)  S = 5.50 (J/K)  V = 0.59 (cc)  Cp = 2.56 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -7.37         62.34         15.40         29.63
+
+Total solids     mass = 38.51 (gm)  density = 3.41 (gm/cc)
+                 G = -556313.39 (J)  H = -459098.22 (J)  S = 80.80 (J/K)  V = 11.28 (cc)  Cp = 43.52 (J/K)  
+
+Viscosity of the System: 5.29 (log 10 poise)
+
+System           mass = 104.59 (gm)  density = 2.62 (gm/cc)
+                 G = -1634983.05 (J)  H = -1324790.04 (J)  S = 257.82 (J/K)  V = 39.89 (cc)  Cp = 135.25 (J/K)  
+
+Oxygen           delta moles = 0.00189012  delta grams = 0.0604814
+                 G = -512.26 (J)  H = 56.44 (J)  S = 0.47 (J/K)  V = 189.07 (cc)  Cp = 0.07 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 920.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.53  delta HM = -5.03  NNO = 0.00  QFM = 0.48  COH = 2.24  IW = 4.49
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 64.48 (gm)  density = 2.30 (gm/cc)  viscosity = 4.64 (log 10 poise)     (analysis in wt %)
+ 		G = -1052547.80 (J)  H = -846861.94 (J)  S = 172.39 (J/K)  V = 27.99 (cc)  Cp = 89.40 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       64.18   0.56  15.70   0.73   0.00   2.33   1.55   0.87   0.00   0.00   3.72   3.33   2.94   0.22   3.88   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 7.74 (gm)  density = 3.40 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.66Mg1.22Fe'''0.02Ti0.00Al0.09Si1.94O6
+                 G = -111107.89 (J)  H = -91410.29 (J)  S = 16.51 (J/K)  V = 2.28 (cc)  Cp = 9.15 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -65.96         93.96         66.25          3.50         -3.17          5.26          0.17
+
+clinopyroxene    mass = 28.42 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 cpx Na0.03Ca0.83Fe''0.28Mg0.72Fe'''0.06Ti0.03Al0.20Si1.85O6
+                 G = -429673.98 (J)  H = -358758.24 (J)  S = 59.44 (J/K)  V = 8.55 (cc)  Cp = 32.30 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              40.02         14.36         27.83          8.96         -2.62          8.82          2.64
+
+feldspar         mass = 1.02 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.01Na0.43Ca0.55Al1.55Si2.45O8
+                 G = -16990.22 (J)  H = -14281.60 (J)  S = 2.27 (J/K)  V = 0.38 (cc)  Cp = 1.23 (J/K)  
+             albite     anorthite      sanidine
+              43.27         55.30          1.43
+
+spinel           mass = 2.92 (gm)  density = 4.80 (gm/cc)     (analysis in mole %)
+                 Fe''1.15Mg0.15Fe'''1.25Al0.16Cr0.00Ti0.30O4
+                 G = -22086.52 (J)  H = -15318.28 (J)  S = 5.67 (J/K)  V = 0.61 (cc)  Cp = 2.65 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -7.07         62.39         14.84         29.84
+
+Total solids     mass = 40.11 (gm)  density = 3.39 (gm/cc)
+                 G = -579858.62 (J)  H = -479768.41 (J)  S = 83.89 (J/K)  V = 11.82 (cc)  Cp = 45.34 (J/K)  
+
+Viscosity of the System: 5.42 (log 10 poise)
+
+System           mass = 104.59 (gm)  density = 2.63 (gm/cc)
+                 G = -1632406.42 (J)  H = -1326630.35 (J)  S = 256.28 (J/K)  V = 39.81 (cc)  Cp = 134.74 (J/K)  
+
+Oxygen           delta moles = 0.00187916  delta grams = 0.0601307
+                 G = -504.60 (J)  H = 55.44 (J)  S = 0.47 (J/K)  V = 186.42 (cc)  Cp = 0.07 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 910.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.71  delta HM = -5.03  NNO = 0.00  QFM = 0.47  COH = 2.22  IW = 4.50
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 62.58 (gm)  density = 2.30 (gm/cc)  viscosity = 4.69 (log 10 poise)     (analysis in wt %)
+ 		G = -1021351.42 (J)  H = -823698.60 (J)  S = 167.06 (J/K)  V = 27.25 (cc)  Cp = 86.67 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       64.56   0.54  15.53   0.69   0.00   2.16   1.60   0.80   0.00   0.00   3.58   3.30   3.03   0.22   3.99   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 8.26 (gm)  density = 3.41 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.67Mg1.21Fe'''0.02Ti0.00Al0.09Si1.95O6
+                 G = -118059.51 (J)  H = -97336.88 (J)  S = 17.51 (J/K)  V = 2.42 (cc)  Cp = 9.74 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -67.00         94.09         67.30          3.44         -3.12          5.13          0.16
+
+clinopyroxene    mass = 28.23 (gm)  density = 3.33 (gm/cc)     (analysis in mole %)
+                 cpx Na0.03Ca0.83Fe''0.28Mg0.72Fe'''0.06Ti0.03Al0.20Si1.85O6
+                 G = -426119.63 (J)  H = -356638.10 (J)  S = 58.73 (J/K)  V = 8.49 (cc)  Cp = 32.03 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              40.58         13.85         27.82          8.99         -2.46          8.53          2.70
+
+feldspar         mass = 2.50 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.02Na0.45Ca0.54Al1.54Si2.46O8
+                 G = -41553.66 (J)  H = -34999.28 (J)  S = 5.54 (J/K)  V = 0.94 (cc)  Cp = 3.01 (J/K)  
+             albite     anorthite      sanidine
+              44.51         53.98          1.51
+
+spinel           mass = 3.03 (gm)  density = 4.81 (gm/cc)     (analysis in mole %)
+                 Fe''1.16Mg0.14Fe'''1.25Al0.15Cr0.00Ti0.30O4
+                 G = -22745.97 (J)  H = -15826.58 (J)  S = 5.85 (J/K)  V = 0.63 (cc)  Cp = 2.75 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -6.89         62.34         14.32         30.23
+
+Total solids     mass = 42.00 (gm)  density = 3.36 (gm/cc)
+                 G = -608478.76 (J)  H = -504800.85 (J)  S = 87.63 (J/K)  V = 12.48 (cc)  Cp = 47.53 (J/K)  
+
+Viscosity of the System: 5.55 (log 10 poise)
+
+System           mass = 104.59 (gm)  density = 2.63 (gm/cc)
+                 G = -1629830.18 (J)  H = -1328499.45 (J)  S = 254.69 (J/K)  V = 39.73 (cc)  Cp = 134.20 (J/K)  
+
+Oxygen           delta moles = 0.00183901  delta grams = 0.058846
+                 G = -489.22 (J)  H = 53.61 (J)  S = 0.46 (J/K)  V = 180.90 (cc)  Cp = 0.07 (J/K)  
+
+**********----------**********
+Title: 3
+
+T = 900.00 (C)  P = 2.000 (kbars)  log(10) f O2 = -11.89  delta HM = -5.04  NNO = 0.00  QFM = 0.47  COH = 2.20  IW = 4.51
+
+Constraint Flags: fO2 path = NNO  
+
+Liquid           mass = 60.78 (gm)  density = 2.29 (gm/cc)  viscosity = 4.74 (log 10 poise)     (analysis in wt %)
+ 		G = -991661.98 (J)  H = -801624.73 (J)  S = 161.99 (J/K)  V = 26.54 (cc)  Cp = 84.08 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       64.92   0.52  15.36   0.65   0.00   2.00   1.65   0.75   0.00   0.00   3.45   3.27   3.11   0.23   4.11   0.00   0.00   0.00   0.00
+
+orthopyroxene    mass = 8.74 (gm)  density = 3.41 (gm/cc)     (analysis in mole %)
+                 opx Na0.00Ca0.06Fe''0.68Mg1.21Fe'''0.02Ti0.00Al0.09Si1.95O6
+                 G = -124533.84 (J)  H = -102893.65 (J)  S = 18.45 (J/K)  V = 2.56 (cc)  Cp = 10.29 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+             -68.07         94.23         68.36          3.38         -3.08          5.01          0.16
+
+clinopyroxene    mass = 28.05 (gm)  density = 3.33 (gm/cc)     (analysis in mole %)
+                 cpx Na0.03Ca0.84Fe''0.28Mg0.71Fe'''0.06Ti0.03Al0.20Si1.85O6
+                 G = -422859.75 (J)  H = -354749.33 (J)  S = 58.06 (J/K)  V = 8.43 (cc)  Cp = 31.79 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              41.11         13.35         27.80          9.04         -2.30          8.23          2.76
+
+feldspar         mass = 3.91 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.02Na0.46Ca0.53Al1.53Si2.47O8
+                 G = -64974.10 (J)  H = -54835.86 (J)  S = 8.64 (J/K)  V = 1.48 (cc)  Cp = 4.71 (J/K)  
+             albite     anorthite      sanidine
+              45.70         52.71          1.59
+
+spinel           mass = 3.11 (gm)  density = 4.81 (gm/cc)     (analysis in mole %)
+                 Fe''1.17Mg0.14Fe'''1.25Al0.14Cr0.00Ti0.31O4
+                 G = -23229.39 (J)  H = -16216.22 (J)  S = 5.98 (J/K)  V = 0.65 (cc)  Cp = 2.82 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00         -6.71         62.30         13.81         30.61
+
+Total solids     mass = 43.81 (gm)  density = 3.34 (gm/cc)
+                 G = -635597.09 (J)  H = -528695.06 (J)  S = 91.12 (J/K)  V = 13.12 (cc)  Cp = 49.60 (J/K)  
+
+Viscosity of the System: 5.68 (log 10 poise)
+
+System           mass = 104.58 (gm)  density = 2.64 (gm/cc)
+                 G = -1627259.07 (J)  H = -1330319.79 (J)  S = 253.11 (J/K)  V = 39.66 (cc)  Cp = 133.68 (J/K)  
+
+Oxygen           delta moles = 0.00177866  delta grams = 0.056915
+                 G = -468.74 (J)  H = 51.21 (J)  S = 0.44 (J/K)  V = 173.49 (cc)  Cp = 0.06 (J/K)  
